@@ -1,122 +1,96 @@
-🧠 Machine Learning Engineering Student
+# 🚀 **Hey there, I'm \[Your Name\]!** 👨‍💻
 
-Growing Expertise in Deep Learning & Natural Language Processing
+### *Machine Learning Engineer Student \| Transformer Tamer \| Neural Net Ninja* 🧠⚡
 
-🎯 About Me
+```{=html}
+<div align="center">
+```
+``` ascii
+   _____ _                 _ _       
+  / ____| |               | | |      
+ | |    | |__   ___  _   _| | |_ ___ 
+ | |    | '_ \ / _ \| | | | | __/ __|
+ | |____| | | | (_) | |_| | | |_\__ \
+  \_____|_| |_|\___/ \__,_|_|\__|___/
+```
 
-Hello! I'm a passionate and driven student focused on the intersection of Software Engineering and Machine Learning. My goal is to build intelligent systems, leveraging modern neural network architectures to solve complex, real-world problems.
+🔥 **Quick Stats**\
+Python • PyTorch • Transformers • GitHub followers • Top Langs
 
-I specialize in Python-based Deep Learning and have hands-on experience developing models, managing data pipelines, and optimizing performance. I'm currently focused on mastering sequential data processing and advanced attention mechanisms.
+🛠️ **Tech Arsenal**\
+🐍 Python \| ⚡ PyTorch \| 🤗 Hugging Face \| 📊 NumPy\
+🧮 TensorFlow \| 🐼 Pandas \| 📈 Matplotlib \| 🔄 Scikit-learn\
+🌐 NLP \| 🖼️ CV \| 🔊 Audio \| 🧩 Transformers
 
-🚀 Deep Learning Focus: The Transformer Era
+🌟 **Journey So Far**
 
-My current area of study extends into state-of-the-art Deep Learning architectures, providing a strong foundation for advanced NLP tasks and beyond.
+  Level             Milestone
+  ----------------- ---------------------------------------
+  🟢 Beginner       Hello World in Python
+  🟡 Intermediate   Built first CNN for MNIST
+  🟠 Advanced       Fine-tuned BERT on custom dataset
+  🔴 Master         Training GPT-like models from scratch
+  🌌 God Mode       Custom Transformer Architectures
 
-Concept
+🚧 **Current Quest**\
+*"Training a Multimodal Transformer that sees, hears, and understands
+memes"* 😎🧬
 
-Description
+🏆 **Pinned Projects**
 
-Status
+  Project      Description                    Tech      Stars
+  ------------ ------------------------------ --------- ----------
+  MemeBERT     BERT but trained on 1M memes   🤗 + 🖼️   ⭐⭐⭐⭐
+  NepaliGPT    First Nepali LLM (WIP)         🇳🇵 + 🔄   ⭐⭐
+  Audio2Text   Whisper + Diarization          🔊 + 🗣️   ⭐⭐⭐
 
-Recurrent Neural Networks (RNNs)
+📊 **GitHub Heatmap**\
+GitHub Streak
 
-Understanding sequential data modeling and basic architecture.
+🎯 **What I'm Learning Now**
 
-✅ Solid Grasp
+-   Attention Mechanisms (Done ✅)\
+-   BERT, GPT, T5 (Done ✅)\
+-   Vision Transformers (ViT)\
+-   Diffusion Models (Next!)\
+-   Mixture of Experts (MoE)
 
-Long Short-Term Memory (LSTMs)
+🎨 **Fun Facts**
 
-Implementing gating mechanisms to solve the vanishing gradient problem in sequence modeling.
+``` python
+print(f"I run on: {coffee} + {code} + {sleep_deprivation}")
+# Output: I run on: ☕☕☕ + 💻💻 + 😴
+```
 
-✅ Solid Grasp
+🏃‍♂️ I code faster than I run\
+🎧 Listening to lo-fi while training models\
+🌙 Night owl from Nepal 🇳🇵\
+💡 Dream: AGI that speaks Nepali
 
-Self-Attention Mechanism
+📬 **Hit Me Up!**
 
-The core building block for modern, highly parallelizable sequence models.
+LinkedIn\
+Twitter\
+Email
 
-🌟 Learning
+https://media.giphy.com/media/LmNwrLVC5fDOylUjFw/giphy.gif
 
-Transformer Architecture
+*"Keep pushing pixels and parameters!"* ⚙️✨
 
-Mastery of the Encoder-Decoder structure, positional encoding, and multi-head attention.
+------------------------------------------------------------------------
 
-🌟 Learning
+### 🎨 **How to Use This Template**
 
-BERT (Bidirectional Encoder Representations from Transformers)
+1.  **Copy everything above**\
+2.  Replace `yourusername`, `yourname`, links, etc.\
+3.  Add your real projects\
+4.  Host images on GitHub or use shields.io\
+5.  **BOOM** --- Your README now slaps harder than a fine-tuned LLM! 🔥
 
-Applied understanding of transfer learning and pre-trained models for NLP tasks.
+------------------------------------------------------------------------
 
-🌟 Learning
+**Pro Tip**: Add this to your profile repo (`yourusername/yourusername`)
+for max flex! 💪
 
-🛠️ Core Technical Skills & Toolset
-
-This section details the essential programming, data science, and deep learning libraries I use.
-
-Data Science & Foundational ML
-
-Category
-
-Tools & Concepts
-
-Icons
-
-Programming
-
-Python, OOP principles
-
-
-
-Data Manipulation
-
-Pandas, NumPy for efficient array and tabular data handling.
-
-
-
-Traditional ML
-
-Popular Traditional ML Algorithms (e.g., Linear Regression, Decision Trees, K-Means, SVM, Random Forest).
-
-🌳💡
-
-Deep Learning & Frameworks
-
-Category
-
-Tools & Concepts
-
-Icons
-
-Concepts
-
-Deep Learning Concepts (Neural Networks, Backpropagation, CNNs, Optimization, Regularization).
-
-🧠✨
-
-Framework
-
-PyTorch for efficient tensor computation and dynamic graph construction.
-
-
-
-Maint. Tools
-
-Scikit-learn, Matplotlib, Jupyter Notebooks/Lab, Google Colab.
-
-
-
-📚 Projects & Contributions
-
-I will showcase my work here soon. Expect projects demonstrating the application of:
-
-Sequence Modeling: Text generation or time-series prediction using LSTMs/RNNs.
-
-Attention-based NLP: A project leveraging a pre-trained BERT model for text classification or sentiment analysis.
-
-Data Analysis: A comprehensive Pandas/NumPy project on a large public dataset.
-
-🤝 Connect With Me
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_GITHUB_USERNAME%26label%3DProfile%2520Views%26color%3Dblueviolet" alt="Profile Views">
-</p>
-
+Let me know if you want a **dark mode version**, **animated badges**, or
+**Nepali language support**! 🇳🇵✨
