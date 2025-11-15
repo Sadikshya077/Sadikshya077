@@ -1,6 +1,6 @@
-# 🚀 **Hey there, I'm \[Your Name\]!** 👨‍💻
+# 🚀 **Hey there, I'm Sadikshya Adhikari** 👨‍💻
 
-### *Machine Learning Engineer Student \| Transformer Tamer \| Neural Net Ninja* 🧠⚡
+### *Machine Learning Engineer Student | Transformer Tamer | Neural Net Ninja* 🧠⚡
 
 ```{=html}
 🔥 **Quick Stats**
@@ -21,7 +21,7 @@ Python • PyTorch • Transformers • GitHub followers • Top Langs
   🔴 Master         Training GPT-like models from scratch
   🌌 God Mode       Custom Transformer Architectures
 
-🚧 **Current Quest**\
+🚧 **Current Quest**
 *"Training a Multimodal Transformer that sees, hears, and understands
 memes"* 😎🧬
 
@@ -33,7 +33,7 @@ memes"* 😎🧬
   NepaliGPT    First Nepali LLM (WIP)         🇳🇵 + 🔄   ⭐⭐
   Audio2Text   Whisper + Diarization          🔊 + 🗣️   ⭐⭐⭐
 
-📊 **GitHub Heatmap**\
+📊 **GitHub Heatmap**
 GitHub Streak
 
 🎯 **What I'm Learning Now**
@@ -55,14 +55,6 @@ print(f"I run on: {coffee} + {code} + {sleep_deprivation}")
 🎧 Listening to lo-fi while training models
 🌙 Night owl from Nepal 🇳🇵
 💡 Dream: AGI that speaks Nepali
-
-📬 **Hit Me Up!**
-
-LinkedIn
-Twitter
-Email
-
-https://media.giphy.com/media/LmNwrLVC5fDOylUjFw/giphy.gif
 
 *"Keep pushing pixels and parameters!"* ⚙️✨
 
