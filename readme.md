@@ -3,24 +3,13 @@
 ### *Machine Learning Engineer Student \| Transformer Tamer \| Neural Net Ninja* 🧠⚡
 
 ```{=html}
-<div align="center">
-```
-``` ascii
-   _____ _                 _ _       
-  / ____| |               | | |      
- | |    | |__   ___  _   _| | |_ ___ 
- | |    | '_ \ / _ \| | | | | __/ __|
- | |____| | | | (_) | |_| | | |_\__ \
-  \_____|_| |_|\___/ \__,_|_|\__|___/
-```
-
-🔥 **Quick Stats**\
+🔥 **Quick Stats**
 Python • PyTorch • Transformers • GitHub followers • Top Langs
 
-🛠️ **Tech Arsenal**\
-🐍 Python \| ⚡ PyTorch \| 🤗 Hugging Face \| 📊 NumPy\
-🧮 TensorFlow \| 🐼 Pandas \| 📈 Matplotlib \| 🔄 Scikit-learn\
-🌐 NLP \| 🖼️ CV \| 🔊 Audio \| 🧩 Transformers
+🛠️ **Tech Arsenal**
+🐍 Python | ⚡ PyTorch | 🤗 Hugging Face | 📊 NumPy
+🧮 TensorFlow | 🐼 Pandas | 📈 Matplotlib | 🔄 Scikit-learn
+🌐 NLP | 🖼️ CV | 🔊 Audio | 🧩 Transformers
 
 🌟 **Journey So Far**
 
@@ -49,10 +38,10 @@ GitHub Streak
 
 🎯 **What I'm Learning Now**
 
--   Attention Mechanisms (Done ✅)\
--   BERT, GPT, T5 (Done ✅)\
--   Vision Transformers (ViT)\
--   Diffusion Models (Next!)\
+-   Attention Mechanisms (Done ✅)
+-   BERT, GPT, T5 (Done ✅)
+-   Vision Transformers (ViT)
+-   Diffusion Models (Next!)
 -   Mixture of Experts (MoE)
 
 🎨 **Fun Facts**
@@ -62,15 +51,15 @@ print(f"I run on: {coffee} + {code} + {sleep_deprivation}")
 # Output: I run on: ☕☕☕ + 💻💻 + 😴
 ```
 
-🏃‍♂️ I code faster than I run\
-🎧 Listening to lo-fi while training models\
-🌙 Night owl from Nepal 🇳🇵\
+🏃‍♂️ I code faster than I run
+🎧 Listening to lo-fi while training models
+🌙 Night owl from Nepal 🇳🇵
 💡 Dream: AGI that speaks Nepali
 
 📬 **Hit Me Up!**
 
-LinkedIn\
-Twitter\
+LinkedIn
+Twitter
 Email
 
 https://media.giphy.com/media/LmNwrLVC5fDOylUjFw/giphy.gif
@@ -78,19 +67,3 @@ https://media.giphy.com/media/LmNwrLVC5fDOylUjFw/giphy.gif
 *"Keep pushing pixels and parameters!"* ⚙️✨
 
 ------------------------------------------------------------------------
-
-### 🎨 **How to Use This Template**
-
-1.  **Copy everything above**\
-2.  Replace `yourusername`, `yourname`, links, etc.\
-3.  Add your real projects\
-4.  Host images on GitHub or use shields.io\
-5.  **BOOM** --- Your README now slaps harder than a fine-tuned LLM! 🔥
-
-------------------------------------------------------------------------
-
-**Pro Tip**: Add this to your profile repo (`yourusername/yourusername`)
-for max flex! 💪
-
-Let me know if you want a **dark mode version**, **animated badges**, or
-**Nepali language support**! 🇳🇵✨
